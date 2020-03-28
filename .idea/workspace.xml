@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86ff5844-9e0f-4d39-a4f1-d2aea532ca42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TxvJV9prgc3hWn6yiYiNJsIxVj" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/libs" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/_posts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="BaseKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="test.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BaseKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="test.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ff5844-9e0f-4d39-a4f1-d2aea532ca42" name="Default Changelist" comment="" />
+      <created>1574414489949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574414489949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1177" y="309" key="#BaseKt" timestamp="1584175451482">
+      <screen x="-1859" y="63" width="1859" height="1057" />
+    </state>
+    <state x="-1177" y="309" key="#BaseKt/-1859.63.1859.1057/0.23.1440.877@-1859.63.1859.1057" timestamp="1584175451482" />
+    <state x="-1280" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584175511446">
+      <screen x="-1859" y="63" width="1859" height="1057" />
+    </state>
+    <state x="-1280" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1859.63.1859.1057/0.23.1440.877@-1859.63.1859.1057" timestamp="1584175511446" />
+    <state x="-979" y="496" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584175510081">
+      <screen x="-1859" y="63" width="1859" height="1057" />
+    </state>
+    <state x="-979" y="496" key="#com.intellij.ide.util.TreeClassChooserDialog/-1859.63.1859.1057/0.23.1440.877@-1859.63.1859.1057" timestamp="1584175510081" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom" timestamp="1585274756425">
+      <screen x="-1876" y="63" width="1876" height="1057" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/-1868.63.1868.1057/0.23.1440.877@-1868.63.1868.1057" timestamp="1584253343570" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/-1876.63.1876.1057/0.23.1440.877@-1876.63.1876.1057" timestamp="1585274756425" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/-1877.63.1877.1057/0.23.1440.877@-1877.63.1877.1057" timestamp="1585241613297" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center" timestamp="1585274756424">
+      <screen x="-1876" y="63" width="1876" height="1057" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.center/-1868.63.1868.1057/0.23.1440.877@-1868.63.1868.1057" timestamp="1584253343569" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/-1876.63.1876.1057/0.23.1440.877@-1876.63.1876.1057" timestamp="1585274756424" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/-1877.63.1877.1057/0.23.1440.877@-1877.63.1877.1057" timestamp="1585241613295" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left" timestamp="1585274756424">
+      <screen x="-1876" y="63" width="1876" height="1057" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.left/-1868.63.1868.1057/0.23.1440.877@-1868.63.1868.1057" timestamp="1584253343568" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/-1876.63.1876.1057/0.23.1440.877@-1876.63.1876.1057" timestamp="1585274756424" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/-1877.63.1877.1057/0.23.1440.877@-1877.63.1877.1057" timestamp="1585241613294" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right" timestamp="1585274756425">
+      <screen x="-1876" y="63" width="1876" height="1057" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.right/-1868.63.1868.1057/0.23.1440.877@-1868.63.1868.1057" timestamp="1584253343569" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/-1876.63.1876.1057/0.23.1440.877@-1876.63.1876.1057" timestamp="1585274756425" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/-1877.63.1877.1057/0.23.1440.877@-1877.63.1877.1057" timestamp="1585241613296" />
+    <state x="-1412" y="272" key="SettingsEditor" timestamp="1584175686214">
+      <screen x="-1859" y="63" width="1859" height="1057" />
+    </state>
+    <state x="-1412" y="272" key="SettingsEditor/-1859.63.1859.1057/0.23.1440.877@-1859.63.1859.1057" timestamp="1584175686214" />
+    <state x="-1089" y="408" width="540" height="524" key="StructurePopup" timestamp="1585398205089">
+      <screen x="-1873" y="63" width="1873" height="1057" />
+    </state>
+    <state x="-1089" y="408" width="540" height="524" key="StructurePopup/-1873.63.1873.1057/0.23.1440.877@-1873.63.1873.1057" timestamp="1585398205089" />
+    <state x="-1357" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1585395345301">
+      <screen x="-1873" y="63" width="1873" height="1057" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/-1859.63.1859.1057/0.23.1440.877@0.23.1440.877" timestamp="1584175273350" />
+    <state x="-1357" y="390" key="com.intellij.ide.util.TipDialog/-1873.63.1873.1057/0.23.1440.877@-1873.63.1873.1057" timestamp="1585395345301" />
+    <state x="-1360" y="390" key="com.intellij.ide.util.TipDialog/-1877.63.1877.1057/0.23.1440.877@-1877.63.1877.1057" timestamp="1585236323534" />
+    <state x="-1111" y="444" width="671" height="676" key="search.everywhere.popup" timestamp="1585241300817">
+      <screen x="-1877" y="63" width="1877" height="1057" />
+    </state>
+    <state x="-1110" y="444" width="670" height="676" key="search.everywhere.popup/-1875.63.1875.1057/0.23.1440.877@-1875.63.1875.1057" timestamp="1585240328091" />
+    <state x="-1111" y="444" width="671" height="676" key="search.everywhere.popup/-1877.63.1877.1057/0.23.1440.877@-1877.63.1877.1057" timestamp="1585241300817" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
