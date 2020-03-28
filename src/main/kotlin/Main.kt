@@ -63,6 +63,7 @@ fun parseByJsoup(id: String, page: Int, categoryName: String): List<Essay> {
                 time = timeFormatConvert(time)
 
                 println("标题：$title 创建日期：$time")
+                result.add(Essay(title, time))
             }
         }
     }
@@ -149,9 +150,13 @@ class AllEssay() {
         map.get(category)?.forEach {
             if (it.title == essayName) {
                 return it.time
+            } else if (it.title.replace("(?=\\\\pP)[^-_]", "-") == essayName) {
+                return it.time
             }
         }
-        throw RuntimeException("没有找到时间 $category, $essayName")
+//        throw RuntimeException("没有找到时间 $category, $essayName")
+        println("文章无时间：$category -> $essayName")
+        return ""
     }
 }
 
