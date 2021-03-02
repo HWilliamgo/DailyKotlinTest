@@ -3,331 +3,34 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="86ff5844-9e0f-4d39-a4f1-d2aea532ca42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DailyKotlinTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Utils.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/LeetCodeEasy.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/targetlog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub/src/main/java/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub/src/main/java/ISupder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub/src/main/java/ISuperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub/src/main/java/IdData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/AllEssay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/BaseImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/BaseKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/CategoryIdPair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Derived.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Essay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/test.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/test.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Base.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android-Jetpack/LiveData的onActive()和onInactive().md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android-Jetpack/ViewModel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android-Studio错误记录/Please-configure--Android-SDK.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/2018-02-08T08-13-24-479Z格式的时间解析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/AIDL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Activity启动模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Activity启动模式脑图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Android-用接口来给RecyclerView的item添加监听事件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Android-给recyclerview添加footView.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/AndroidStudio获取SHAI码.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Android修改应用包名和ApplicationId：实战和理解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Android文件api获得的路径.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Android消息机制流程图，Handler,Looper,MessageQueue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/AppCompatActivity和Fragment如何通过Lifecycle将生命周期状态转发出去.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Application使用技巧.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Bitmap手册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/BroadcastReceiver.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Broadcast全解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Broadcast的细节.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/CoodinatorLayout里放布局问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/CoordinatorLayout全面解析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/CoordinatorLayout配合AppBarLayout、CollapsingToolbarLayout、Toolbar使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/DialogFragment自己爬过的坑.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Fragment涉及的add、remove和replace方法和回退栈的关系详解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Fragment状态保存.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Generate-Signed-APK的一个坑.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/GreenDao-2-0初始化方法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/GreenDao安全地升级数据库.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Handler内存泄漏再探索.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Handler可能引起的内存泄漏.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/JSONObject，JSONArray解析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/JitPack极速发布Library使用手册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/MediaMetadataRetriever获取mp3文件信息.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Message-obtain()中的单链表栈缓存.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/ObjectAnimator与AnimatorSet.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/RecyclerView和glide搭配中的图片混乱.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/RecyclerView的复用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/RecyclerView记事.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Service是单例.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/TabLayout简单使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/TextInputLayout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Toolbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Toolbar使用手册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/ValueAnimator使用思路.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/Volley使用手册（1）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/[转载]setFocusable、setEnabled、setClickable区别.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/android-内存优化（1）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/android模拟简单跨进程通信.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/android防止内存泄漏的工具.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/java中的堆和栈.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/view-findViewById和activity-findViewById.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/关于Handler,Looper,-Message,-MessageQueue的文章收藏.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/兼容问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/再次理解回调的含义.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/基本的sql语句.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/对象序列化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/导入本地SQLite文件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/收藏，待深入学习的android文章.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/查看Android设备已安装的apk的versionCode.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/自定义CheckBox样式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/透明状态栏.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Android/静态变量何时被gc回收？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/AndroidSDK适配指南/Android-7-0.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/C/C语言学习笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/C/常量.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/C/指针记录的是什么？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/C/方法（函数）中传入的参数有新的内存地址.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/C/格式控制符.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Gradle/Gradle-常用工具脚本.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Gradle/Gradle构建的生命周期和其对象的理解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Gradle/Gradle自定义插件和发布.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Gradle/Gradle：Task-#-finalizedBy().md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Gradle/gradle的ext属性.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/Java虚拟机是什么？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/Java，重载的陷阱，静态分派，重写，动态分派。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/String对象的intern()方法。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/java变量初始化时的赋值.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/java对象的创建、内存布局、对象访问.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/java类初始化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/java运行时数据区.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/对象与垃圾回收.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/JVM/编译器和解释器是什么？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Annotation总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Comparable接口是什么.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/HashMap半解析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Integer++.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Java不可变对象.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Java传值和传引用的真相.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Java泛型通配符，上下界。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Proxy和Invocation动态代理和AOP代理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/ThreadLocal.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/Throwable的使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/hashCode是什么，hash表是什么？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/transient关键字.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/关于++x和x++.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/内部类和静态内部类的加载.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/查看基本数据类型所占的字节.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/泛型类型转换的问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/线程的同步.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/通过Annotation为按钮设置监听（ButterKnife的原理）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Java/通过反射查看泛型信息.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Kotlin/Java中被阉割的闭包在Kotlin中的表现如何？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Kotlin/Kotlin协程（一）理解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Kotlin/Kotlin泛型.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Kotlin/Kotlin笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/Kotlin/解释Kotlin协程官方文档：（一）基础：.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/RxJava-2-x/防止迷路.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/ScrollView嵌套ScrollView的滑动冲突.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/View#onKeyDown不调用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/View#post(Runnable-runnable)为什么能拿到view的宽高。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/View#scrollBy(int-x-,-int-y)反向.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/ViewGroup拦截子View点击事件失败.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/View事件分发学习笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/View简要工作原理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/android的PopupWindow无法收到KeyEvent-KEYCODE_BACK的原因-md.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/android自定义View中用NinePatch类画9图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/requestLayout()引起的问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/view-getX(),-view-getLeft(),-view-getTranslationX().md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/启动一个Activity.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/获取Activity的布局文件的root-view.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/记录自定义Dialog的一个天坑和启动Dialog的小流程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/View/防止迷路.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/android图片/HttpUrlConnection用字节下载图片，用Bitmap放入ImageView.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/android图片/android图片下载过程控制-（开始，正在，结束，失败）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/android图片/android图片压缩.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/android图片/android用线程池手动实现多图加载.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/android图片/图片三级缓存策略.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/2018-08-21.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/Hugo配合GitHub搭建博客（Windows-10）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git-clone做了什么.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git修改commit信息。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git压缩版本快照.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git在github上的操作的版本回退.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git多人协作模拟，图解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git新建远程分支，创建跟踪远程分支的本地副本.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git跟踪远程分支，查看本地分支追踪和远程分支的关系.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/git，为服务器仓库建立新的分支。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/git/为git设置文本编辑器。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/FutureTask和ExecutorService#submit().md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/Future相关类解释.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/Java内存模型.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/Java线程池相关类解释，整理自Java文档.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/Thread的run方法和start方法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/java线程池总结.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/volatile关键字.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/《Java编程思想》中关于线程的描述.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/简易线程池.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/线程中断interrupt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java并发/线程生命周期和同步监视器是什么.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java设计模式/Android，Mvp模式学习.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java设计模式/单例模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java设计模式/策略模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java设计模式/观察者模式：将对象的状态监听器抽象.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/java设计模式/静态方法给非静态变量赋值.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/ndk/Android-cmake使用外部动态共享库.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/ndk/JNI创建变量和释放变量.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/ndk/Mac-10-15-AndroidStudio-JNI调试出错.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/ndk/ndk：还用不用armeabi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/ndk/用javah命令生成-h头文件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/加快开发效率的工具/UML类图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/加快开发效率的工具/在AndroidStudio中使用其他的terminal程序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/加快开发效率的工具/快速启搭建Android项目所需要的库.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/外文搬运/Package-Name-vs--Application-ID-–-Styling-Android.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/操作系统/Ubuntu下android-studio同步踩坑.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/操作系统/mac开发环境配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/操作系统/ubuntu--下的android-studio的真机调试.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/操作系统/ubuntu-打开管理员权限的文件浏览器.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/操作系统/ubuntu下配置java，gradle，groovy，androidSdk，androidNdk环境变量.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/日记本/2018-04-21.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/日记本/2018春节的末尾.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/日记本/不够努力的自己.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/Dagger2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/Dagger2脑图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/Dagger2配合Application拓展类实现单例模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/JsonDeserializer和JsonSerializer可能引起无限循环调用导致StackOverFlow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/OkHttp拦截器袖珍重写版.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/RxJava1源码分析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/第三方库/Volley具体流程图（配代码）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/AVL树.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/element为int的二叉查找树.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/二叉堆.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/二叉树前序、中序、后序遍历，和直观打印。.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/单链表反转.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/字符串中求出现次数最多字符.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/手动实现ArrayList.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/手动实现LinkedList.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/手动撸一个基于数组的Stack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/数组实现固定长度的循环队列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/数组实现的优先队列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/检查数中重复出现的数字.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/红黑树.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/线性查找,递归,二分查找,选择排序,插入排序,归并,快排.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/算法/链表实现队列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/网络/Https扫盲.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/网络/Socket、描述符、端口号.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/网络/application-x-www-form-urlencoded-还是-multipart-form-data-.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/网络/http和tcp-ip的区别.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/网络/token,cookie,session.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/IjkPlayer的-&quot;dns_cache_clear&quot;.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/ffmpeg常用命令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/理解ijkplayer（一）：开始.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/理解ijkplayer（三）从Java层开始初始化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/理解ijkplayer（二）项目结构分析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/理解ijkplayer（五）解码、播放.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/理解ijkplayer（六）Vout、Aout、FFPipeLine.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_posts/音视频开发/理解ijkplayer（四）拉流.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/category.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polyv_pre_env_test/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polyv_pre_env_test/ExecThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polyv_pre_env_test/FileUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polyv_pre_env_test/Mode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polyv_pre_env_test/Param.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polyv_pre_env_test/PolyvPackageScript.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,9 +60,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -482,7 +185,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -577,6 +280,10 @@
     </state>
     <state width="1878" height="231" key="GridCell.Tab.1.right/44.23.1396.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607670281202" />
     <state width="1878" height="231" key="GridCell.Tab.1.right/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607653277693" />
+    <state x="515" y="171" key="RollbackChangesDialog" timestamp="1614666726481">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="515" y="171" key="RollbackChangesDialog/48.23.1392.877/1440.23.1920.1057@48.23.1392.877" timestamp="1614666726481" />
     <state x="1863" y="188" key="SettingsEditor" timestamp="1611214463823">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
