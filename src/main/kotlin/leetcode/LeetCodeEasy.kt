@@ -50,3 +50,28 @@ fun romanToInteger(input: String): Int {
     }
     return sum
 }
+
+/**
+ * 待优化：可以先遍历一遍，找到input中长度最小的字符串，用长度最小的字符串来做外层遍历。
+ */
+fun longestCommonPrefix(input: Array<String>): String {
+    if (input.isEmpty()) {
+        return ""
+    }
+    var ret = ""
+    val first = input[0];
+    val firstCharArray = first.toCharArray()
+    var validLength = 0
+    out@ for ((i, c) in firstCharArray.withIndex()) {
+        for ((j, s) in input.withIndex()) {
+            if (i > s.length - 1) {
+                break@out
+            }
+            if (c != s[i]) {
+                break@out
+            }
+        }
+        validLength++
+    }
+    return first.substring(0, validLength)
+}
